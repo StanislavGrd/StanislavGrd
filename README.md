@@ -13,3 +13,6 @@ Streetwear-Shop-Website (HTML, CSS, JavaScript) · [Code](https://github.com/Sta
 
 **[Luft-Zeichnen & Luft-Ninja – ausprobieren](https://stanislavgrd.github.io/luft-zeichnen/)**
 Malen und Fruit Ninja per Handtracking über die Webcam (JavaScript, MediaPipe) · [Code](https://github.com/StanislavGrd/luft-zeichnen)
+
+**[Python-Grafik mit Matrizen](https://github.com/StanislavGrd/python-grafik)**
+Rotierender 3D-Würfel, Matrix-Bibliothek mit Tests und Umlaufbahn-Animation (Python, pygame, pytest)
